@@ -1,6 +1,6 @@
 # 🔍 Scanner de ports web avec httpx
 
-Ce dépôt contient un script Bash (`scan.sh`) permettant de scanner rapidement une liste de domaines sur des ports web courants, en utilisant l'outil [httpx](https://github.com/projectdiscovery/httpx).
+Ce dépôt contient un script Bash (`scanner.sh`) permettant de scanner rapidement une liste de domaines sur des ports web courants, en utilisant l'outil [httpx](https://github.com/projectdiscovery/httpx).
 
 ## ✨ Fonctionnalités
 
